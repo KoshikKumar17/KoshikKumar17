@@ -10,7 +10,7 @@
 - 😉Instagram:- <a href=https://instagram.com/anandkumarr9506> @anandkumarr9506 </a>
 
 <ul type="circle">
-<li>🌱 I’m currently learning ... Mathematics 😆😆</li>
+<li>🌱 I’m currently learning ... <b> Mathematics </b> 😆😆</li>
 <li>💞️ I’m looking to collaborate on ... GitHub</li>
 <li>📫 <b> <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> </b> to get my details of all <b> social media accounts </b> ...</li>
 </ul>
