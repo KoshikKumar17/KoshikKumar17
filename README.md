@@ -12,7 +12,7 @@
 <ul type="circle">
 <li>🌱 I’m currently learning ... Mathematics 😆😆</li>
 <li>💞️ I’m looking to collaborate on ... GitHub</li>
-<li>📫 <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> to get my details of all social media accounts...</li>
+<li>📫 <b> <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> </b> to get my details of all social media accounts...</li>
 </ul>
 <!---
 Anand-AK-edx17/Anand-AK-edx17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
