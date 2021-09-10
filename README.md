@@ -1,5 +1,5 @@
 ![AnAnD KuMaR](https://telegra.ph/file/4c3f4c1b8371f0e6d5d88.jpg)
-- 👋 Hi, I’m <h3> KoSHiK KuMaR </h3>
+- 👋 Hi, I’m <h6> KoSHiK KuMaR </h6>
 
 - 👀 I’m interested in ... <b> Studying </b>
 
