@@ -1,14 +1,16 @@
 ![AnAnD KuMaR](https://telegra.ph/file/4c3f4c1b8371f0e6d5d88.jpg)
-<P>
+
 - 👋 Hi, I’m <h2> KoSHiK KuMaR </h2>
 
 - 👀 I’m interested in ... <b> Studying </b>
 
 - I am a student....👨‍🎓
-</P>
+
 - 👉Telegram:- <a href=https://telegram.dog/Anand_Kumar_AK> <b> ★☆Koshik Kumar☆★ </b> </a>
 
 - 😉Instagram:- <a href=https://instagram.com/anandkumarr9506> @anandkumarr9506 </a>
+
+- [♥️ Twitter](https://twitter.com/KoshikKumar20)
 
 <ul type="circle">
 <li>🌱 I’m currently learning ... <b> Mathematics </b> 😆😆</li>
