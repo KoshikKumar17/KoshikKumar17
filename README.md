@@ -6,9 +6,9 @@
 
 - I am a student....👨‍🎓
 
-- 👉Telegram:- <a href=https://telegram.dog/Anand_Kumar_AK> <b> ★☆Koshik Kumar☆★ </b> </a>
+- 👉Telegram:- <a href=https://telegram.dog/KoshikKumar17> <b> ★☆Koshik Kumar☆★ </b> </a>
 
-- 😉Instagram:- <a href=https://instagram.com/anandkumarr9506> @anandkumarr9506 </a>
+- 😉Instagram:- <a href=https://instagram.com/KoshikKumar17> @KoshikKumar17 </a>
 
 - [♥️ Twitter](https://twitter.com/KoshikKumar20)
 
