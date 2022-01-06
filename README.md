@@ -19,7 +19,7 @@
 </ul>
 
 ### Follow on:
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter](https://twitter.com/KoshikKumar20)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram](https://instagram.com/KoshikKumar17)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram](https://telegram.dog/KoshikKumar17)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook](https://Facebook.com/KoshikKumar17)
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter](https://twitter.com/KoshikKumar20)]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram](https://instagram.com/KoshikKumar17)]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram](https://telegram.dog/KoshikKumar17)]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook](https://Facebook.com/KoshikKumar17)]
