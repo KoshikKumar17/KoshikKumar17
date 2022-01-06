@@ -17,7 +17,9 @@
 <li>💞️ I’m looking to collaborate on ... GitHub</li>
 <li>📫 <b> <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> </b> to get my details of all <b> social media accounts </b> ...</li>
 </ul>
-<!---
-Anand-AK-edx17/Anand-AK-edx17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Follow on:
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
