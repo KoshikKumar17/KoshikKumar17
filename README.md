@@ -20,9 +20,8 @@
 
 <details>
     <summary><b> 👉 Follow me on 👇</b></summary>
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/KoshikKumar17)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/KoshikKumar17)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/telegram-app.png)](https://telegram.me/KoshikKumar17)
-[![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://facebook.com/koshikkumar17)
-
+<a href="https://telegram.me/KoshikKumar17"><img alt="Telegram" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+<a href="https://facebook.com/koshikkumar17"><img alt="Facebook" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://instagram.com/KoshikKumar17"><img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/KoshikKumar17"><img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </details>
