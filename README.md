@@ -18,11 +18,16 @@
 <li>📫 <b> <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> </b> to get my details of all <b> social media accounts </b> ...</li>
 </ul>
 
+
+<details><summary>👉Follow on 👇</summary>
+<p>
+<br/>
+
 [![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![KOSHIK KUMAR](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
-
+</details>
 [twitter]: https://twitter.com/KoshikKumar17
 [instagram]: https://instagram.com/KoshikKumar17
 [telegram]: https://t.me/KoshikKumar17
