@@ -1,4 +1,4 @@
-![AnAnD KuMaR](https://telegra.ph/file/4c3f4c1b8371f0e6d5d88.jpg)
+[![AnAnD KuMaR](https://telegra.ph/file/4c3f4c1b8371f0e6d5d88.jpg)](https://telegra.ph/My-InFO-07-31)
 
 - 👋 Hi, I’m <h2> KoSHiK KuMaR </h2>
 
