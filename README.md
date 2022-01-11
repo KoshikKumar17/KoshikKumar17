@@ -24,9 +24,9 @@
 
 <a href="https://telegram.me/KoshikKumar17"><img alt="Telegram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<a href="https://facebook.com/koshikkumar17"><img alt="Facebook" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://facebook.com/koshikkumar17"><img alt="Facebook" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 <a href="https://instagram.com/KoshikKumar17"><img alt="Instagram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://twitter.com/KoshikKumar20"><img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://twitter.com/KoshikKumar20"><img alt="Twitter" src="https://img.shields.io/badge/@KoshikKumar20-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </details>
