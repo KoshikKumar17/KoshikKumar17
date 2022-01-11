@@ -22,7 +22,7 @@
 <details>
     <summary><b> 👉 Follow me on 👇</b></summary>
 
-<a href="https://telegram.me/KoshikKumar17"><img alt="Telegram" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+<a href="https://telegram.me/KoshikKumar17"><img alt="Telegram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <a href="https://facebook.com/koshikkumar17"><img alt="Facebook" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
