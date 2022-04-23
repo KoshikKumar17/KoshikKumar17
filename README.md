@@ -1,6 +1,6 @@
 [![AnAnD KuMaR](https://telegra.ph/file/4c3f4c1b8371f0e6d5d88.jpg)](https://telegra.ph/My-InFO-07-31)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KoshikKumar17/&title=Profile%20Views)
-
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoshikKumar17&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 - 👋 Hi, I’m <h2> KoSHiK KuMaR </h2>
 
 - 👀 I’m interested in ... <b> Studying </b>
