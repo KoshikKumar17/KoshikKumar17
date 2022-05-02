@@ -8,12 +8,9 @@
 
 - I am a student....👨‍🎓
 
-- 👉Telegram:- <a href=https://telegram.dog/KoshikKumar17> <b> ★☆Koshik Kumar☆★ </b> </a>
+- 👉Telegram:- <a href="https://KoshikKumar17.github.io/telegram"> <b> ★☆Koshik Kumar☆★ </b> </a>
 
-- 😉Instagram:- <a href=https://instagram.com/KoshikKumar17> @KoshikKumar17 </a>
-
-- [♥️ Twitter](https://twitter.com/KoshikKumar20)
-
+- 😉Instagram:- <a href="https://KoshikKumar17.github.io/instagram"> @KoshikKumar17 </a>
 <ul type="circle">
 <li>🌱 I’m currently learning ... <b> Mathematics </b> 😆😆</li>
 <li>💞️ I’m looking to collaborate on ... GitHub</li>
@@ -24,11 +21,8 @@
 <details>
     <summary><b> 👉 Follow me on 👇</b></summary>
 
-<a href="https://telegram.me/KoshikKumar17"><img alt="Telegram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://KoshikKumar17.github.io/telegram"><img alt="Telegram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<a href="https://facebook.com/koshikkumar17"><img alt="Facebook" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://KoshikKumar17.github.io/instagram"><img alt="Instagram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://instagram.com/KoshikKumar17"><img alt="Instagram" src="https://img.shields.io/badge/@KoshikKumar17-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<a href="https://twitter.com/KoshikKumar20"><img alt="Twitter" src="https://img.shields.io/badge/@KoshikKumar20-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </details>
