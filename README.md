@@ -4,18 +4,9 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoshikKumar17&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 - 👋 Hi, I’m <h2> KoSHiK KuMaR </h2>
 
-- 👀 I’m interested in ... <b> Studying </b>
-
 - I am a student....👨‍🎓
 
-- 👉Telegram:- <a href="https://KoshikKumar17.github.io/telegram"> <b> ★☆Koshik Kumar☆★ </b> </a>
-
-- 😉Instagram:- <a href="https://KoshikKumar17.github.io/instagram"> @KoshikKumar17 </a>
-<ul type="circle">
-<li>🌱 I’m currently learning ... <b> Mathematics </b> 😆😆</li>
-<li>💞️ I’m looking to collaborate on ... GitHub</li>
-<li>📫 <b> <A href=https://telegra.ph/My-InFO-07-31> Click HERE </a> </b> to get my details of all <b> social media accounts </b> ...</li>
-</ul>
+All Here:- [https://KoshikKumar17.github.io](https://KoshikKumar17.github.io)
 
 
 <details>
